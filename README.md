@@ -21,3 +21,4 @@ my-express-app/
 
 abhishekbackend
 QDtooCifkOyZOPkf
+`mongodb+srv://abhishekbackend:QDtooCifkOyZOPkf@cluster0.ggkpmuc.mongodb.net/places?retryWrites=true&w=majority`
